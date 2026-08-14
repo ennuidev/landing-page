@@ -31,8 +31,7 @@
 
 .top-section {
     background-color: #1F2937;
-    padding-bottom: 100px;
-    padding: 10px;
+    padding: 10px 10px 100px;
 }
 
 .container {
@@ -46,7 +45,7 @@
 .header {
     display: flex;
     justify-content: space-between;
-    /* padding: 0 80px; */
+    
 }
 
 ul {
@@ -70,8 +69,7 @@ ul {
     background-color: #1F2937;
     display: flex;
     justify-content: space-between;
-    
-    /* padding: 50px; */
+    margin-top: 50px;
     
 }
 
